@@ -48,6 +48,10 @@ A powerful and intuitive project management platform, similar to Jira, that enab
 
 ![Image](https://github.com/user-attachments/assets/3c6da90c-8f88-4cfc-aba6-311406ad16d4)
 
+**Members Page**
+
+![Image](https://github.com/user-attachments/assets/bc58f7c0-5ae7-4888-b3e7-bb45bb96b38a)
+
 
 ## 🚀 Getting Started
 
