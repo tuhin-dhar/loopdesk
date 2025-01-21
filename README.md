@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Project Management Platform
 
-## Getting Started
+A powerful and intuitive project management platform, similar to Jira, that enables teams to collaborate effectively, manage multiple workspaces, and track projects with ease.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Multi-Member Support**: Assign roles such as **Admin** and **Member**.
+- **Workspaces & Projects**: Create multiple workspaces, each containing multiple projects.
+- **Task Management**:  
+  - Assign tasks with statuses: **TODO, BACKLOG, IN REVIEW, IN PROGRESS, DONE**.  
+  - Set due dates and sort tasks by **status** or **due date**.  
+  - View tasks in **Tabular, Kanban, and Calendar** formats.
+- **Project & Task Analytics**: Gain insights into project progress and performance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Category               | Technologies Used |
+|------------------------|------------------|
+| **Backend & Validation** | Hono, Appwrite, Zod, @hono/zod-validator |
+| **State Management**    | TanStack Query |
+| **UI Components**       | Radix UI, Tailwind CSS, clsx, tailwind-merge, lucide-react |
+| **Forms & Hooks**       | React Hook Form, @hookform/resolvers, react-use |
+| **Tables & Charts**     | TanStack Table, Recharts |
+| **Date & Calendar**     | date-fns, react-big-calendar, react-day-picker |
+| **Notifications**       | Sonner |
+| **Frameworks**         | Next.js, next-themes, nuqs, vaul, server-only, react-icons |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+*(Add screenshots of your platform here!)*
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Getting Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
