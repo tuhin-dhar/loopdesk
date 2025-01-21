@@ -1,6 +1,6 @@
-# 🚀 Project Management Platform
+# 🚀 Loopdesk - A Project Management Platform
 
-A powerful and intuitive project management platform, similar to Jira, that enables teams to collaborate effectively, manage multiple workspaces, and track projects with ease.
+A powerful and intuitive project management platform that enables teams to collaborate effectively, manage multiple workspaces, and track projects with ease.
 
 ## ✨ Features
 
