@@ -11,6 +11,7 @@ A powerful and intuitive project management platform, similar to Jira, that enab
   - Set due dates and sort tasks by **status** or **due date**.  
   - View tasks in **Tabular, Kanban, and Calendar** formats.
 - **Project & Task Analytics**: Gain insights into project progress and performance.
+- **Flexible Authentication**: Log in using the built-in system with cookies or authenticate via **GitHub** or **Google** using SSR.
 
 ## 🛠️ Tech Stack
 
@@ -33,5 +34,5 @@ A powerful and intuitive project management platform, similar to Jira, that enab
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/tuhin-dhar/loopdesk.git
+cd loopdesk
