@@ -28,7 +28,26 @@ A powerful and intuitive project management platform, similar to Jira, that enab
 
 ## 📸 Screenshots
 
-*(Add screenshots of your platform here!)*
+**Home Page**
+
+![Image](https://github.com/user-attachments/assets/ea0bdbcf-89a4-4e90-b3b7-ae18fe68654a)
+
+**Tasks in tabular form**
+
+![Image](https://github.com/user-attachments/assets/a598c391-0178-431e-b85b-886dc15fa870)
+
+**Tasks on a Kanban board**
+
+![Image](https://github.com/user-attachments/assets/6aa638d0-dbb3-4eba-ba49-aec0780ea0b9)
+
+**Tasks on a Calendar**
+
+![Image](https://github.com/user-attachments/assets/b041c012-396f-4b58-9d26-6392e4dfea2a)
+
+**Workspace Settings**
+
+![Image](https://github.com/user-attachments/assets/3c6da90c-8f88-4cfc-aba6-311406ad16d4)
+
 
 ## 🚀 Getting Started
 
